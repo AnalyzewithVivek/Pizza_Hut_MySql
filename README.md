@@ -60,6 +60,8 @@ I wrote and executed multiple SQL queries across three difficulty levels to perf
 
 ---
 
-👨‍💻 **Author:** Vivek Kumar  
-📅 **Year:** 2025  
-📈 **Domain:** Data Analytics / SQL Data Analysis
+## Contact
+
+Email: [vivekkumar04x@gmail.com](mailto:vivekkumar04x@gmail.com)
+
+LinkedIn: [https://www.linkedin.com/in/vivek-kumar2002](https://www.linkedin.com/in/vivekkumar2002)
